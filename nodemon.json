@@ -1,0 +1,10 @@
+{
+  "ignore": [
+    "*.jsonl",
+    "*.json",
+    "model_checkpoint/",
+    "archive_*.jsonl",
+    "finetune_result.json"
+  ],
+  "ext": "js,mjs"
+}
